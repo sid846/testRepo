@@ -1,2 +1,63 @@
-sidkey
-Test commit to check this file's update
+@Test
+    public void aa() throws Exception {
+//        String a = "064545";
+//        System.out.println( a.charAt(0));
+//        System.out.println( a.charAt(1));
+//        System.out.println( a.charAt(2));
+//        System.out.println( a.charAt(3));
+///////////////////////////////
+//        int x = 5;
+//        System.out.println(x);
+//        System.out.println(x++);
+//        System.out.println(++x);
+///////////////////////////////
+//        String str1 = "Hello";
+//        String str2 = "World";
+//        String str3 = "HelloWorld";
+//        String str4 = str1+str2;
+//        str4 = str4.intern();
+//
+//        System.out.println(str3 == str4);
+//        System.out.println(str3.equals(str4));
+///////////////////////////////
+//        System.out.println(0.1+0.2);
+/////////////////////////////
+//        System.out.println(getMet());
+/////////////////////////////
+//        int x=5;
+//        int y=7;
+//        boolean res = (x > y) && (x++ < y--);
+//        System.out.println(x);
+//        System.out.println(y);
+//        System.out.println(res);
+/////////////////////////////
+//        int x = 5;
+//        int y = 7;
+//        int z = 0;
+//
+//        z = (x++ > 5) ? (y++ < 8 ? x++ : y++):(y++ > 6 ? x-- : y--);
+//
+//        System.out.println("x: " + x);
+//        System.out.println("y: " + y);
+//        System.out.println("z: " + z);
+/////////////////////////////
+//        String pop = "xXHelloNaveenxXXAutomationXxXLabsXXxXJava";
+//        String p[] = pop.split("xX");
+//        System.out.println(p[0] + ":" + p[0].length());
+/////////////////////////////
+//        byte b = 065;
+//        System.out.print(b+20);
+/////////////////////////////
+        Integer t1 = 100;
+        Integer t2 = 100;
+        System.out.println(t1==t2); //output: true
+
+        Integer p1 = 200;
+        Integer p2 = 200;
+        System.out.println(p1==p2); //output: false
+/////////////////////////////
+/////////////////////////////
+/////////////////////////////
+/////////////////////////////
+/////////////////////////////
+}
